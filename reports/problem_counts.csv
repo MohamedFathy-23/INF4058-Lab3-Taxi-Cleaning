@@ -1,0 +1,6 @@
+problem,count
+pickup_outside_january_2021,24
+fare_zero_or_negative,7411
+distance_zero_or_negative,19952
+passenger_count_zero,26726
+duplicate_rows_within_chunks,0

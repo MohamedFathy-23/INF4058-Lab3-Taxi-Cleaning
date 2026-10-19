@@ -1,0 +1,10 @@
+
+services:
+  jupyter:
+    build: .
+    container_name: nyc-taxi-lab3
+    ports:
+      - "8888:8888"
+    volumes:
+      - .:/workspace
+    working_dir: /workspace

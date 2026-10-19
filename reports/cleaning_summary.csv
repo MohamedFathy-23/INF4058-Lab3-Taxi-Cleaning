@@ -1,0 +1,7 @@
+rule,rows_removed
+invalid_or_missing_pickup,0
+pickup_outside_january_2021,24
+fare_zero_or_negative,7410
+distance_zero_or_negative,18968
+passenger_count_zero,26246
+duplicate_rows,0
